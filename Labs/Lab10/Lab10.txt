@@ -1,0 +1,11 @@
+// Andrea M. Stojanovski
+
+Problem 1:
+
+Q2) The result for 75.5 will be 75 because it is an int and not a double (hence why we say it is bad data), therefore it will be 75+10 = 85 rather then the 85.5 we might have expected. 
+
+Problem 2:
+
+Q2) !fin.eof( ) which signifies the end of a file
+
+Q3) *This is the same as problem 1 question 2 basically* The result for 75.5 will be 75 because it is an int and not a double (hence why we say it is bad data), therefore it will be 75+10 = 85 rather then the 85.5 we might have expected. 

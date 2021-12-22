@@ -1,0 +1,7 @@
+john 85
+mary 88
+jake 99
+jill 98
+peter 89
+alice 75
+susan 97
